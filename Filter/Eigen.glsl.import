@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c688sbuu30ms5"
+path="res://.godot/imported/Eigen.glsl-0dc1a758bb0b23ed2d1a90e2e9fa2100.res"
+
+[deps]
+
+source_file="res://Materials/Kuwahara/Eigen.glsl"
+dest_files=["res://.godot/imported/Eigen.glsl-0dc1a758bb0b23ed2d1a90e2e9fa2100.res"]
+
+[params]
+
